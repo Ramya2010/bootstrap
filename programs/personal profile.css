@@ -1,0 +1,142 @@
+body{
+	color: #ff4646;
+	text-align: center;
+
+}
+.hello{
+	font-size: 60px;
+}
+p{
+	color: #654062;
+	font-family: 'Architects Daughter', cursive;
+	font-weight: bold;
+	font-size: 20px;
+}
+h4{
+	color: #654062;
+	font-family: 'Dancing Script', cursive;
+	position: relative;
+	font-size: 30px;
+	text-align: center;
+}
+hr{
+	border: dotted #532e1c 6px;
+	width: 4%;
+	border-bottom: none;
+	margin:100px auto;
+}
+.contact-button{padding-bottom: 30px;
+}
+.contact-me{
+	background-color: #c5a880;
+	padding: 50px 0px 20px;
+}
+h3{
+	color: #654062;
+	font-family: 'Dancing Script', cursive;
+	position: relative;
+	font-size: 30px;
+}
+.h1{
+	font-family: 'Dancing Script', cursive;
+	margin: 0 auto 0 auto;
+	font-size: 80px;
+}
+.profile_picture{
+text-align: center;
+padding-top: 50px;
+}
+.student
+{
+	margin: 0 auto 0 auto;
+	font-family: 'Dancing Script', cursive;
+	font-size: 45px;
+}
+img{
+	height: 200px;
+	width: 200px;
+}
+.top-container{
+	position: relative;
+	padding-top: 100px;
+}
+.skill-container{
+	position: relative;
+	width: 50%
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+.mixer{
+	float: left;
+	margin-right: 30px;
+}
+.art{
+	float: right;
+	margin-left: 30px;
+}
+.profile{
+
+	margin: 100px auto;
+	width: 50%
+}
+.flaticon{
+	height:90px;
+	width:90px;
+	position: absolute;
+	top:100px;
+	left:270px;
+
+}
+.skills{
+	margin: 100px auto;
+}
+.art-skills{
+	margin: 100px auto;
+	padding-top: 30px;
+}
+a{
+		font-family: 'Architects Daughter', cursive;
+		margin: 10px 20px;
+}
+.copywrite{
+	font-size: 10px;
+}
+.BUTTON_CWO {
+   background: #ff9d72;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 12px;
+   font-weight: 100;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CWO:hover {
+   border: solid #337FED 1px;
+   background: #f4f4f4;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
